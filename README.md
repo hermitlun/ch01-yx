@@ -11,11 +11,9 @@ NA
 Common webbrowser that supports html and css
 
 ## Usage
-For bootcamp class use only
-Screenshot:
-    ```md
-    ![alt text](Develop/assets/images/Screenshot.png)
-    ```
+For bootcamp class use only. <br />
+Screenshot: <br />
+![alt text](/Develop/assets/images/Screenshot.png)
 
 ## Credits
 Starter code cloned from:
