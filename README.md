@@ -1,6 +1,3 @@
-# Code Refactor Starter Code
-
-
 # Code Refactor of a Horiseon Webpage
 
 ## Description
@@ -14,13 +11,9 @@ NA
 Common webbrowser that supports html and css
 
 ## Usage
-For bootcamp class use only
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+For bootcamp class use only. <br />
+Screenshot: <br />
+![alt text](/Develop/assets/images/Screenshot.png)
 
 ## Credits
 Starter code cloned from:
