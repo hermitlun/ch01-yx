@@ -4,6 +4,9 @@
 
 Refactor of html and css codes of the Horiseon webpage. Improved html & css semantics and structure, image accessibility, heading, title & page centering.
 
+Deployent:
+https://yxx-dev.github.io/Code-Refactor-of-a-Horiseon-Webpage/
+
 ## Table of Contents (Optional)
 NA
 
