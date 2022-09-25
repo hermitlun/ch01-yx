@@ -7,7 +7,7 @@ Refactor of html and css codes of the Horiseon webpage. Improved html & css sema
 Deployment:
 https://yxx-dev.github.io/Code-Refactor-of-a-Horiseon-Webpage/index.html
 
-## Table of Contents (Optional)
+## Table of Contents
 NA
 
 ## Installation
